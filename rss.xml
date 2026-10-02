@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>대화형 통계/확률 분포 실험실</title>
+    <link>https://probability-dist-lab.enjoy-onepage.com/</link>
+    <description>정규·이항·포아송 분포와 몬테카를로 중심극한정리를 검증하는 인터랙티브 통계 실험실</description>
+    <language>ko-KR</language>
+  </channel>
+</rss>

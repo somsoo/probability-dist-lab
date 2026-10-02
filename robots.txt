@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://probability-dist-lab.enjoy-onepage.com/sitemap.xml

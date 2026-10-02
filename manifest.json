@@ -1,0 +1,8 @@
+{
+  "name": "대화형 통계/확률 분포 실험실",
+  "short_name": "확률분포실험실",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#0284c7"
+}
